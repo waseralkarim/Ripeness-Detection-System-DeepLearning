@@ -2,6 +2,8 @@
 
 A deep learning-based image classification system for detecting banana ripeness levels using CNN architectures like VGG16, ResNet50, and Vision Transformer. Includes Grad-CAM for interpretability.
 
+![architecture](https://github.com/user-attachments/assets/af31ebb2-7468-4ff3-b3aa-55b69ab1d9cc)
+
 ---
 
 ## Overview
